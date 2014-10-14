@@ -32,3 +32,5 @@ node_modules
 #Jetbrains Project Folders
 .idea
 
+# MacOS shiz
+.DS_Store
